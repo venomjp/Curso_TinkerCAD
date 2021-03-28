@@ -9,4 +9,4 @@ Este es un completo curso de TINKERCAD y una colección de ejercicios para pract
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Licencia Creative Commons" style="border-width:0" src="by-sa.png" width="200" align = "center"/></a>
 
-<br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">**Aprende a diseñar en 3D con TINKERCAD**</span> creado por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Juan Pedro Perianes Rodríguez</span> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
+<br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">**Diseña lo que imagines con TINKERCAD**</span> creado por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Juan Pedro Perianes Rodríguez</span> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
