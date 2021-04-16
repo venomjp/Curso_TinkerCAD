@@ -4,7 +4,8 @@ Este es un completo curso de TINKERCAD y una colección de ejercicios para pract
 
 <img alt="Portada" style="border-width:0" src="portada.png" width="600" align = "center"/>
 
-<a rel="Curso en PDF" href="Dise%C3%B1a%20lo%20que%20imagines%20en%203D.pdf">
+# El curso en PDF 
+<a rel="Curso en PDF" href="/Diseña lo que imagines en 3D.pdf">
 
 
 # Ejercicios
